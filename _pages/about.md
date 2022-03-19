@@ -2,23 +2,36 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. Candidate in Philosophy at <a href='https://snd.sorbonne-universite.fr/giada-pistilli/'>Sorbonne Université</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+  image: profile.jpg
+  address: 
+    
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a researcher in philosophy, specializing in ethics applied to conversational AI systems. My research is mainly focused on comparative ethical frameworks, value pluralism, and Natural Language Processing.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+After obtaining a master's degree in ethics and political philosophy at [Sorbonne Université](https://lettres.sorbonne-universite.fr) in 2019, I continued my doctoral research in the same faculty, joining the Sorbonne Université - CNRS mixed unit laboratory [Sciences, Normes, Democratie](https://snd.sorbonne-universite.fr/). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am also a research engineer at [Les petits bots](https://lespetitsbots.com) where I am conducting my empirical research on conversational agents for the public sector. There, I coordinate an R&D team of designers and software developers on the design, development, and deployment phases of conversational agents for French local governments and their inhabitants. I also proudly led the reflections, drafting and action plans of the company's [ethical charter](https://lespetitsbots.com/charte-ethique).
+
+In addition, I teach Engineering Ethics, Introduction to Ethics, and Digital Ethics to engineering students at [ESILV École d'Ingénieurs](https://www.esilv.fr) in Paris.
+
+## projects
+
+* Co-chair of the Ethical and Legal Scholarship working group of the [BigScience](https://bigscience.huggingface.co) open science project, where I am drafting an ethical charter.
+
+* Co-editor with Michel Puech of the special issue "Technology and Constructive Critical Thought" for the journal [Giornale di Filosofia](https://mimesisjournals.com/ojs/index.php/giornale-filosofia/index).
+
+* Co-editor with Julien De Sanctis of the special issue ["For an Ethics of the Human-Machine Interaction"](https://www.implications-philosophiques.org/aac-pour-une-ethique-de-linteraction-humain-machine/) for the journal [Implications Philosophiques](https://www.implications-philosophiques.org/).
+
+* Co-founder of the [Collectif des Éthiciens du Numérique](https://ethiquenum.fr/).
+
+* Member of the experts' board of the think thank [Global AI Ethics](https://globalethics.ai/about-us/).
+
+* Member of the international research group [PhD Students in AI Ethics](https://phdaiethics.com).
