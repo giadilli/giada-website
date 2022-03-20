@@ -102,7 +102,7 @@ collections:
     defaults:
       layout: news
     output: false
-    permalink: /talks/:path/
+    permalink: /news/:path/
   projects:
     output: false
     permalink: /projects/:path/
