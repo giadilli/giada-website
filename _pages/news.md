@@ -1,6 +1,6 @@
 ---
 layout: news
-title: talks
-permalink: /talks
+title: news
+permalink: /news
 nav: true
 ---
