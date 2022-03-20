@@ -101,7 +101,7 @@ collections:
   news:
     defaults:
       layout: news
-    output: false
+    output: true
     permalink: /news/:path/
   projects:
     output: false
