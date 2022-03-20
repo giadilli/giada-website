@@ -20,15 +20,13 @@ After obtaining a master's degree in ethics and political philosophy at [Sorbonn
 
 I am also a research engineer at [Les petits bots](https://lespetitsbots.com) where I am conducting my empirical research on conversational agents for the public sector. There, I coordinate an R&D team of designers and software developers on the design, development, and deployment phases of conversational agents for French local governments and their inhabitants. I also proudly led the reflections, drafting and action plans of the company's [ethical charter](https://lespetitsbots.com/charte-ethique).
 
-In addition, I teach Engineering Ethics, Introduction to Ethics, and Digital Ethics to engineering students at [ESILV École d'Ingénieurs](https://www.esilv.fr) in Paris.
-
 ## projects
 
-* Co-chair of the Ethical and Legal Scholarship working group of the [BigScience](https://bigscience.huggingface.co) open science project, where I am drafting an ethical charter.
+* Co-chair of the Ethical and Legal Scholarship working group of the [BigScience](https://bigscience.huggingface.co) open science project.
 
-* Co-editor with Michel Puech of the special issue "Technology and Constructive Critical Thought" for the journal [Giornale di Filosofia](https://mimesisjournals.com/ojs/index.php/giornale-filosofia/index).
+* Co-editor with Michel Puech of the special issue "[Technology and Constructive Critical Thought](https://mimesisjournals.com/ojs/index.php/giornale-filosofia/call-for-abstract)" for the peer-reviewed journal [Giornale di Filosofia](https://mimesisjournals.com/ojs/index.php/giornale-filosofia/index).
 
-* Co-editor with Julien De Sanctis of the special issue ["For an Ethics of the Human-Machine Interaction"](https://www.implications-philosophiques.org/aac-pour-une-ethique-de-linteraction-humain-machine/) for the journal [Implications Philosophiques](https://www.implications-philosophiques.org/).
+* Co-editor with Julien De Sanctis of the special issue ["For an Ethics of the Human-Machine Interaction"](https://www.implications-philosophiques.org/aac-pour-une-ethique-de-linteraction-humain-machine/) for the peer-reviewed journal [Implications Philosophiques](https://www.implications-philosophiques.org/).
 
 * Co-founder of the [Collectif des Éthiciens du Numérique](https://ethiquenum.fr/).
 

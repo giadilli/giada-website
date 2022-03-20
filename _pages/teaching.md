@@ -2,10 +2,24 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: List of courses I teach. Feel free to ask for my syllabi.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+* January-May 2022: **Business and Digital Ethics** at [ESILV](https://www.esilv.fr) for 3rd year undergraduate engineering students.
 
-Organize your courses by years, topics, or universities, however you like!
+* January-February 2022: **Ethics applied to Artificial Intelligence** at [ISEN](https://isen-brest.fr) for 4th year graduate engineering students.
+
+* September-January 2021-2022: **Introduction to Ethics** at [ESILV](https://www.esilv.fr) for 1st year undergraduate engineering students.
+
+* September-January 2021-2022: **Engineering Ethics** at [ESILV](https://www.esilv.fr) for 4th year graduate engineering students.
+
+* September-January 2021-2022: **Digital Ethics** at [ESILV](https://www.esilv.fr) for 2nd year undergraduate engineering students.
+
+* February 2021: **Digital Ethics** at [ISEN](https://isen-brest.fr) for 3rd year undergraduate engineering students.
+
+
+
+
+
+
