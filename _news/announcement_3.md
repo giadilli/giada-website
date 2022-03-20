@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-12-08 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+"What are the ethical and legal issues when building, filtering, hosting and sharing a very large dataset and associated model?" for the [NeurIPS 2021](https://nips.cc/Conferences/2021/Schedule?type=Social) conference.
