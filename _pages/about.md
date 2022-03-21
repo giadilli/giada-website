@@ -32,4 +32,4 @@ I am also a research engineer at [Les petits bots](https://lespetitsbots.com) wh
 
 * Member of the experts' board of the think thank [Global AI Ethics](https://globalethics.ai/about-us/).
 
-* Member of the international research group [PhD Students in AI Ethics](https://phdaiethics.com).
+* Member of the international research group [PhD Students in AI Ethics](https://phdaiethics.com/who-we-are-2/).
