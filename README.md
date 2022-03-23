@@ -273,31 +273,14 @@ You can also add new `*.bib` files and customize the look of your publications h
 In publications, the author entry for yourself is identified by string `scholar:last_name` and string array `scholar:first_name` in `_config.yml`:
 ```
 scholar:
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Pistilli
+  first_name: [Giada]
 ```
 If the entry matches the last name and one form of the first names, it will be underlined.
 Keep meta-information about your co-authors in `_data/coauthors.yml` and Jekyll will insert links to their webpages automatically.
 The coauthor data format in `_data/coauthors.yml` is as follows,
 ```
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"Bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 ```
 If the entry matches one of the combinations of the last names and the first names, it will be highlighted and linked to the url provided.
 
