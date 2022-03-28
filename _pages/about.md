@@ -28,7 +28,7 @@ I am also a research engineer at [Les petits bots](https://lespetitsbots.com) wh
 
 * Co-editor with Julien De Sanctis of the special issue ["For an Ethics of the Human-Machine Interaction"](https://www.implications-philosophiques.org/aac-pour-une-ethique-de-linteraction-humain-machine/) for the peer-reviewed journal [Implications Philosophiques](https://www.implications-philosophiques.org/).
 
-* Co-founder of the [Collectif des Éthiciens du Numérique](https://ethiquenum.fr/).
+* Co-founder and senior associate of the consultancy firm [Éthiciens du Numérique](https://ethiquenum.fr/).
 
 * Member of the experts' board of the think thank [Global AI Ethics](https://globalethics.ai/about-us/).
 
