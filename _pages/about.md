@@ -24,7 +24,7 @@ I am also a research engineer at [Les petits bots](https://lespetitsbots.com) wh
 
 * Co-chair of the Ethical and Legal Scholarship working group of the [BigScience](https://bigscience.huggingface.co) open science project.
 
-* Co-editor with Michel Puech of the special issue "[Technology and Constructive Critical Thought](https://mimesisjournals.com/ojs/index.php/giornale-filosofia/call-for-abstract)" for the peer-reviewed journal [Giornale di Filosofia](https://mimesisjournals.com/ojs/index.php/giornale-filosofia/index).
+* Co-editor with Michel Puech of the special issue "[Technology and Constructive Critical Thought](https://mimesisjournals.com/ojs/index.php/giornale-filosofia/issue/view/114)" for the peer-reviewed journal [Giornale di Filosofia](https://mimesisjournals.com/ojs/index.php/giornale-filosofia/index).
 
 * Co-editor with Julien De Sanctis of the special issue ["For an Ethics of the Human-Machine Interaction"](https://www.implications-philosophiques.org/aac-pour-une-ethique-de-linteraction-humain-machine/) for the peer-reviewed journal [Implications Philosophiques](https://www.implications-philosophiques.org/).
 
