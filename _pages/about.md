@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Philosophy at <a href='https://snd.sorbonne-universite.fr/giada-pistilli/'>Sorbonne Université</a>.
+subtitle: Ethicist at <a href='https://huggingface.co'>Hugging Face</a> | Ph.D. Candidate in Philosophy at <a href='https://snd.sorbonne-universite.fr/giada-pistilli/'>Sorbonne Université</a>.
 
 profile:
   align: right
@@ -14,11 +14,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a researcher in philosophy, specializing in ethics applied to conversational AI systems. My research is mainly focused on comparative ethical frameworks, value pluralism, and Natural Language Processing.
+I am a researcher in philosophy, specializing in ethics applied to conversational AI systems. My research is mainly focused on comparative ethical frameworks, value pluralism, and Machine Learning (Natural Language Processing and Large Language Models).
 
 After obtaining a master's degree in ethics and political philosophy at [Sorbonne Université](https://lettres.sorbonne-universite.fr) in 2019, I continued my doctoral research in the same faculty, joining the Sorbonne Université - CNRS mixed unit laboratory [Sciences, Normes, Democratie](https://snd.sorbonne-universite.fr/). 
 
-I am also a research engineer at [Les petits bots](https://lespetitsbots.com) where I am conducting my empirical research on conversational agents for the public sector. There, I coordinate an R&D team of designers and software developers on the design, development, and deployment phases of conversational agents for French local governments and their inhabitants. I also proudly led the reflections, drafting and action plans of the company's [ethical charter](https://lespetitsbots.com/charte-ethique).
+I am currently an ethicist at [Hugging Face](https://huggingface.co) where I do philosophical and interdisciplinary research on AI Ethics.
 
 ## projects
 
