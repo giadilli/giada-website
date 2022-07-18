@@ -8,7 +8,7 @@ middle_name:
 last_name: Pistilli
 email: giada.pistilli@paris-sorbonne.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Giada Pistilli
+  Giada Pistilli personal website - Principal Ethicist at Hugging Face and Philosopher at Sorbonne University CNRS specializing in AI Ethics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: Giada Pistilli  # add your own keywords or leave empty
@@ -82,7 +82,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name:  # your blog must have a name for it to show up in the nav bar
-blog_description: Giada Pistilli
+blog_description: Giada Pistilli personal website - Principal Ethicist at Hugging Face and Philosopher at Sorbonne University CNRS specializing in AI Ethics.
 permalink: /blog/:year/:title/
 
 # Pagination
