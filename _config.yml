@@ -82,7 +82,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name:  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: Giada Pistilli
 permalink: /blog/:year/:title/
 
 # Pagination
