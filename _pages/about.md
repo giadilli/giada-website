@@ -18,7 +18,7 @@ I am a researcher in philosophy, specializing in ethics applied to conversationa
 
 After obtaining a master's degree in ethics and political philosophy at [Sorbonne Université](https://lettres.sorbonne-universite.fr) in 2019, I continued my doctoral research in the same faculty, joining the Sorbonne Université - CNRS mixed unit laboratory [Sciences, Normes, Democratie](https://snd.sorbonne-universite.fr/). 
 
-I am currently an ethicist at [Hugging Face](https://huggingface.co) where I do philosophical and interdisciplinary research on AI Ethics.
+I am currently the Principal Ethicist at [Hugging Face](https://huggingface.co) where I do philosophical and interdisciplinary research on AI Ethics.
 
 ## projects
 
