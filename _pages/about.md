@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ethicist at <a href='https://huggingface.co'>Hugging Face</a> | Ph.D. Candidate in Philosophy at <a href='https://snd.sorbonne-universite.fr/giada-pistilli/'>Sorbonne Université</a>.
+subtitle: Principal Ethicist at <a href='https://huggingface.co'>Hugging Face</a> | Ph.D. Candidate in Philosophy at <a href='https://snd.sorbonne-universite.fr/giada-pistilli/'>Sorbonne Université</a>.
 
 profile:
   align: right
