@@ -5,8 +5,21 @@ title: work
 nav: true
 ---
 
-After over two years and a half as a research engineer working on chatbots for the public sector, since May 2022 I am a full-time **ethicist** at [Hugging Face](https://huggingface.co/).
+After over two years and a half as a research engineer working on chatbots for the public sector, since May 2022 I am the full-time **principal ethicist** at [Hugging Face](https://huggingface.co/).
 
-I am bringing my research background in **philosophy** to do interdisciplinary and empirical research in ethics applied to Machine Learning. 
+I am currently working on interdisciplinary research in ethics:
 
-Check out this page which I will update regularly as soon as I take over the projects!
+- Research in Natural Language Processing and Large Language Models
+- Open Science Projects and Research ([BigScience 🌸](https://bigscience.huggingface.co))
+	- [Social Context in LLM Research: the BigScience Approach](https://montrealethics.ai/category/columns/social-context-in-llm-research/) for [Montreal AI Ethics](https://montrealethics.ai/)
+- Public Policy, Regulation and Standardisation
+	- OECD
+	- UNESCO
+	- EU Institutions
+- R&D in Artificial Intelligence and Machine Learning more broadly
+	- Evaluation Tools and Metrics
+	- Social Impact
+	- Model and Data Cards
+- Content Moderation and Safety
+
+*Check out this page which I will update regularly as soon as I take over new projects!*
