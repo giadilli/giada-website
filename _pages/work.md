@@ -12,7 +12,6 @@ I am currently working on interdisciplinary research in ethics:
 - Research in Ethics
 	- BigScience [Ethical Charter](https://bigscience.huggingface.co/blog/bigscience-ethical-charter)
 	- Multimodal Project [Ethical Charter](https://huggingface.co/blog/ethical-charter-multimodal)
-	- Diffusers' Ethical Charter
 - Interdisciplinary research in Natural Language Processing and Large Language Models
 	- [Ethics & Society Newsletter #1](https://huggingface.co/blog/ethics-soc-1)
 	- [Machine Learning in development: Let's talk about bias!](https://huggingface.co/blog/ethics-soc-2)
