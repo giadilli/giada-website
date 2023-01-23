@@ -6,13 +6,19 @@ description:
 nav: true
 ---
 
-* [Debating Whether AI is Conscious Is A Distraction from Real Problems](https://techpolicy.press/debating-whether-ai-is-conscious-is-a-distraction-from-real-problems/) op-ed for [Tech Policy Press](https://techpolicy.press/).
+* [ChatGPT could make life easier. Here’s when it’s worth it](https://www.washingtonpost.com/technology/2023/01/18/chatgpt-personal-use/) interview for [The Washington Post](https://www.washingtonpost.com/).
 
 * [Open-source language AI challenges big tech’s models](https://www.nature.com/articles/d41586-022-01705-z) interview for [Nature](https://www.nature.com/).
 
 * [Inside a radical new project to democratize AI](https://www.technologyreview.com/2022/07/12/1055817/inside-a-radical-new-project-to-democratize-ai/) interview for [MIT Technology Review](https://www.technologyreview.com/).
 
 * [There’s no Tiananmen Square in the new Chinese image-making AI](https://www.technologyreview.com/2022/09/14/1059481/baidu-chinese-image-ai-tiananmen/) interview for [MIT Technology Review](https://www.technologyreview.com/).
+
+* [Debating Whether AI is Conscious Is A Distraction from Real Problems](https://techpolicy.press/debating-whether-ai-is-conscious-is-a-distraction-from-real-problems/) op-ed for [Tech Policy Press](https://techpolicy.press/).
+
+* [L’intelligence artificielle : outil de domination ou d’émancipation ?](https://www.polytechnique-insights.com/tribunes/digital/lintelligence-artificielle-outil-de-domination-ou-demancipation/) interview for [Polytechnique Insights](https://www.polytechnique-insights.com/).
+
+* [Why Schools Should Not Ban ChatGPT](https://analyticsindiamag.com/why-schools-should-not-ban-chatgpt/) interview for [Analytics India Magazine](https://analyticsindiamag.com/).
 
 * [BigScience’s OpenRAILs Can Promote Responsible Use of AI](https://analyticsindiamag.com/bigsciences-openrails-can-promote-responsible-use-of-ai/) interview for [Analytics India Magazine](https://analyticsindiamag.com/).
 
