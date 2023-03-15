@@ -47,6 +47,8 @@ nav: true
 
 **French Press**
 
+* For [Le Figaro](https://www.lefigaro.fr/): [ChatGPT est-il écrivain ?](https://www.lefigaro.fr/livres/chatgpt-est-il-ecrivain-20230312)
+
 * For [Polytechnique Insights](https://www.polytechnique-insights.com/): [L’intelligence artificielle : outil de domination ou d’émancipation ?](https://www.polytechnique-insights.com/tribunes/digital/lintelligence-artificielle-outil-de-domination-ou-demancipation/)
 
 * For [Numerama](https://www.numerama.com/): [Pourquoi détecter un texte de ChatGPT est-il si dur ?](https://www.numerama.com/tech/1252886-pourquoi-detecter-un-texte-ecrit-par-chatgpt-est-il-si-dur.html) 
@@ -56,13 +58,13 @@ nav: true
 
 **Other**
 
+* [Così ChatGPT ci ha spiegato come vendere droga a scuola](https://www.repubblica.it/tecnologia/2023/02/19/news/fare_il_jailbreak_di_una_ia_cosi_chatgpt_ci_ha_spiegato_come_vendere_droga_a_scuola-387353948/) for [Repubblica](https://www.repubblica.it/).
+
 * [Google niega haber creado una inteligencia artificial sintiente, como alerta uno de sus ingenieros](https://www.eldiarioar.com/mundo/google-niega-haber-creado-inteligencia-artificial-sintiente-alerta-ingenieros_1_9083638.html) for [El Diario](https://www.eldiarioar.com).
 
 * [“Não me envolverei mais em discussões filosóficas sobre IA consciente, e esta é a razão”](https://shifter.pt/2022/08/ia-consciente-giada-pistilli/) for [Shifter](https://shifter.pt/).
 
-* [오픈 소스 언어 모델 ‘블룸(BLOOM)’ 출시…오픈AI와 구글에 도전](http://www.aitimes.com/news/articleView.html?idxno=145494) for [AI Times](http://www.aitimes.com).
 
-* [Chi ha paura dell'intelligenza artificiale?](https://www.rivistastudio.com/ai-google-blake-lemoine/) for [Rivista Studio](https://www.rivistastudio.com/).
 
 
 
