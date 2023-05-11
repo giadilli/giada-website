@@ -25,6 +25,10 @@ nav: true
 
 * [LaMDA and the Sentient AI Trap](https://www.wired.com/story/lamda-sentient-ai-bias-google-blake-lemoine/)
 
+**[Bloomberg](https://www.bloomberg.com/)**
+
+* [AI Doesn’t Hallucinate. It Makes Things Up](https://www.bloomberg.com/news/newsletters/2023-04-03/chatgpt-bing-and-bard-don-t-hallucinate-they-fabricate)
+
 **[Business Insider](https://www.businessinsider.com/)**
 
 * [Google engineer believed chatbot had become an 8-year-old child. Experts say it's not sentient — just programmed to sound 'real'](https://www.businessinsider.com/lamda-ai-isnt-sentient-google-engineer-claims-2022-6?r=US&IR=T)
@@ -48,6 +52,8 @@ nav: true
 **French Press**
 
 * For [Le Figaro](https://www.lefigaro.fr/): [ChatGPT est-il écrivain ?](https://www.lefigaro.fr/livres/chatgpt-est-il-ecrivain-20230312)
+
+* For [La Croix](https://www.la-croix.com/): [Intelligence artificielle : de Turing à ChatGPT, comment les ordinateurs ont appris à parler](https://www.la-croix.com/Sciences-et-ethique/Intelligence-artificielle-Turing-ChatGPT-comment-ordinateurs-appris-parler-2023-04-27-1201265233)
 
 * For [Polytechnique Insights](https://www.polytechnique-insights.com/): [L’intelligence artificielle : outil de domination ou d’émancipation ?](https://www.polytechnique-insights.com/tribunes/digital/lintelligence-artificielle-outil-de-domination-ou-demancipation/)
 
