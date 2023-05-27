@@ -31,8 +31,6 @@ nav: true
 
 **[Business Insider](https://www.businessinsider.com/)**
 
-* [I'm an AI ethicist. I make sure the tech is safely deployed to the world, but I am not an oracle](https://www.businessinsider.com/what-is-ai-ethicist-working-to-make-the-tech-safe-2023-5)
-
 * [Google engineer believed chatbot had become an 8-year-old child. Experts say it's not sentient — just programmed to sound 'real'](https://www.businessinsider.com/lamda-ai-isnt-sentient-google-engineer-claims-2022-6?r=US&IR=T)
 
 **Op-ed**
