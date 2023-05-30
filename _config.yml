@@ -10,7 +10,7 @@ email: giada.pistilli@paris-sorbonne.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Giada Pistilli personal website - Principal Ethicist at Hugging Face and Philosopher at Sorbonne University CNRS specializing in AI Ethics.
 footer_text: >
-  Picture taken by Maelia Germain. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Photo: Maelia Germain. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: Giada Pistilli  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
