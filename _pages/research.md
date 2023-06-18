@@ -7,8 +7,8 @@ nav: true
 
  I am affiliated with [Sorbonne Université](https://www.sorbonne-universite.fr) and [Centre National de Recherche Scientifique](https://www.cnrs.fr) mixed research laboratory [Sciences, Normes, Démocratie](https://snd.sorbonne-universite.fr/giada-pistilli/), under the supervision of the epistemologist and professor of philosophy of science Anouk Barberousse.
 
- *Areas of Specialization:* normative, descriptive & applied ethics; value theory; moral & political philosophy.
-*Areas of Competence:* philosophy of technology; philosophy of science; philosophy of law.
+ **Areas of Specialization**: normative, descriptive & applied ethics; value theory; moral & political philosophy.
+**Areas of Competence**: philosophy of technology; philosophy of science; philosophy of law.
 
 📚 Visit my [publications page](https://www.giadapistilli.com/publications/) for a comprehensive collection of my works, or feel free to delve into a brief overview of my ongoing research outlined below.
 
