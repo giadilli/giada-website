@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a researcher in philosophy, specializing in ethics applied to Conversational Artificial Intelligence Systems. My research is mainly focused on comparative ethical frameworks, value theory, ethics applied to Machine Learning (Natural Language Processing and Large Language Models).
+I am a researcher in philosophy, specializing in ethics applied to Conversational Artificial Intelligence. My research is mainly focused on comparative ethical frameworks, value theory, ethics applied to Machine Learning (Natural Language Processing and Large Language Models).
 
 After obtaining a master's degree in ethics and political philosophy at [Sorbonne Université](https://lettres.sorbonne-universite.fr) in 2019, I pursued my doctoral research in the same faculty, joining the Sorbonne Université - CNRS mixed unit laboratory [Sciences, Normes, Democratie](https://snd.sorbonne-universite.fr/giada-pistilli/). 
 
@@ -31,5 +31,3 @@ Read more about my typical workday in my [Business Insider profile](https://www.
 * Co-editor with Michel Puech of the special issue "[Technology and Constructive Critical Thought](https://mimesisjournals.com/ojs/index.php/giornale-filosofia/issue/view/114)" for the peer-reviewed journal [Giornale di Filosofia](https://mimesisjournals.com/ojs/index.php/giornale-filosofia/index).
 
 * Co-editor with Julien De Sanctis of the special issue ["For an Ethics of the Human-Machine Interaction"](https://www.implications-philosophiques.org/aac-pour-une-ethique-de-linteraction-humain-machine/) for the peer-reviewed journal [Implications Philosophiques](https://www.implications-philosophiques.org/).
-
-* Member of the international research group [PhD Students in AI Ethics](https://phdaiethics.com/who-we-are-2/).
