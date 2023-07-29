@@ -30,4 +30,4 @@ Read more about my typical workday in my [Business Insider profile](https://www.
 
 * Co-editor with Michel Puech of the special issue "[Technology and Constructive Critical Thought](https://mimesisjournals.com/ojs/index.php/giornale-filosofia/issue/view/114)" for the peer-reviewed journal [Giornale di Filosofia](https://mimesisjournals.com/ojs/index.php/giornale-filosofia/index).
 
-* Co-editor with Julien De Sanctis of the special issue ["For an Ethics of the Human-Machine Interaction"](https://www.implications-philosophiques.org/aac-pour-une-ethique-de-linteraction-humain-machine/) for the peer-reviewed journal [Implications Philosophiques](https://www.implications-philosophiques.org/).
+* Co-editor with Julien De Sanctis of the special issue ["For an Ethics of the Human-Machine Interaction"](https://www.implications-philosophiques.org/dossier-pour-une-ethique-de-linteraction-humain-machine/) for the peer-reviewed journal [Implications Philosophiques](https://www.implications-philosophiques.org/).
