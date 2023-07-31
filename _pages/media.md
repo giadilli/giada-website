@@ -13,7 +13,7 @@ Additionally, I enjoy joining podcast & radio discussions, where I disseminate m
 🇫🇷 For [France Culture](https://www.radiofrance.fr/franceculture), I tried to answer the question "[Is Artificial Intelligence a new humanism?](https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/l-intelligence-artificielle-est-elle-un-nouvel-humanisme-9822329)". For the French magazine [L'ADN](https://www.ladn.eu/) we discussed the fact that [to contemplate the ethics of AI, one must question the role of the human](https://www.ladn.eu/tech-a-suivre/podcast-ethique-intelligence-artficielle-giada-pistilli/).
 
 
-**[Reach out!](mailto:giada.pistilli@paris-sorbonne.fr)** With a strong inclination towards science outreach and informing the general public, engagement with journalists is always welcomed. Should you be in the field of journalism and interested in discussing my work and research further, please do not hesitate to get in touch.
+**[Reach out!](mailto:hello@giadapistilli.com)** With a strong inclination towards science outreach and informing the general public, engagement with journalists is always welcomed. Should you be in the field of journalism and interested in discussing my work and research further, please do not hesitate to get in touch.
 
 Find more media features below:
 

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Principal Ethicist at <a href='https://huggingface.co'>Hugging Face</a> | Ph.D. Candidate in Philosophy at <a href='https://snd.sorbonne-universite.fr/giada-pistilli/'>Sorbonne Université</a>.
+subtitle: Principal Ethicist at <a href='https://huggingface.co'>Hugging Face</a> | Ph.D. Candidate in Philosophy at <a href='https://snd.sorbonne-universite.fr/giada-pistilli/'>Sorbonne Université</a>
 
 profile:
   align: right
@@ -18,9 +18,7 @@ I am a researcher in philosophy, specializing in ethics applied to Conversationa
 
 After obtaining a master's degree in ethics and political philosophy at [Sorbonne Université](https://lettres.sorbonne-universite.fr) in 2019, I pursued my doctoral research in the same faculty, joining the Sorbonne Université - CNRS mixed unit laboratory [Sciences, Normes, Democratie](https://snd.sorbonne-universite.fr/giada-pistilli/). 
 
-I am currently Principal Ethicist at [Hugging Face](https://huggingface.co) where I do philosophical and interdisciplinary research on AI Ethics.
-
-Read more about my typical workday in my [Business Insider profile](https://www.businessinsider.com/what-is-ai-ethicist-working-to-make-the-tech-safe-2023-5).
+I am currently Principal Ethicist at [Hugging Face](https://huggingface.co) where I do philosophical and interdisciplinary research on AI Ethics. Read more about my typical workday in my [Business Insider profile](https://www.businessinsider.com/what-is-ai-ethicist-working-to-make-the-tech-safe-2023-5).
 
 ## projects
 
@@ -31,3 +29,8 @@ Read more about my typical workday in my [Business Insider profile](https://www.
 * Co-editor with Michel Puech of the special issue "[Technology and Constructive Critical Thought](https://mimesisjournals.com/ojs/index.php/giornale-filosofia/issue/view/114)" for the peer-reviewed journal [Giornale di Filosofia](https://mimesisjournals.com/ojs/index.php/giornale-filosofia/index).
 
 * Co-editor with Julien De Sanctis of the special issue ["For an Ethics of the Human-Machine Interaction"](https://www.implications-philosophiques.org/dossier-pour-une-ethique-de-linteraction-humain-machine/) for the peer-reviewed journal [Implications Philosophiques](https://www.implications-philosophiques.org/).
+
+## work with me
+
+If you're considering discussing the ethical aspects related to your company's AI or technology pursuits, I'd be more than happy to provide specialized consulting services for a fee. 
+Feel free to drop me an [e-mail](mailto:hello@giadapistilli.com) if you're keen on starting a discussion.
