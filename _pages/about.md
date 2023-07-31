@@ -18,7 +18,9 @@ I am a researcher in philosophy, specializing in ethics applied to Conversationa
 
 After obtaining a master's degree in ethics and political philosophy at [Sorbonne Université](https://lettres.sorbonne-universite.fr) in 2019, I pursued my doctoral research in the same faculty, joining the Sorbonne Université - CNRS mixed unit laboratory "[Sciences, Normes, Democratie](https://snd.sorbonne-universite.fr/giada-pistilli/)". 
 
-I am currently Principal Ethicist at [Hugging Face](https://huggingface.co), where I do philosophical and interdisciplinary research on AI Ethics. Read more about my typical workday in my [Business Insider profile](https://www.businessinsider.com/what-is-ai-ethicist-working-to-make-the-tech-safe-2023-5).
+I am currently Principal Ethicist at [Hugging Face](https://huggingface.co), doing philosophical and interdisciplinary research on AI Ethics. Read more about my typical workday in my [Business Insider profile](https://www.businessinsider.com/what-is-ai-ethicist-working-to-make-the-tech-safe-2023-5).
+
+Additionally, my academic and professional experiences include policy and international relations, notably highlighted by a role at the European Parliament in Brussels, where I focused on human rights.
 
 ## projects
 
