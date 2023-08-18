@@ -31,8 +31,3 @@ Additionally, my academic and professional experiences include policy and intern
 * Co-editor with Michel Puech of the special issue "[Technology and Constructive Critical Thought](https://mimesisjournals.com/ojs/index.php/giornale-filosofia/issue/view/114)" for the peer-reviewed journal [Giornale di Filosofia](https://mimesisjournals.com/ojs/index.php/giornale-filosofia/index).
 
 * Co-editor with Julien De Sanctis of the special issue ["For an Ethics of the Human-Machine Interaction"](https://www.implications-philosophiques.org/dossier-pour-une-ethique-de-linteraction-humain-machine/) for the peer-reviewed journal [Implications Philosophiques](https://www.implications-philosophiques.org/).
-
-## work with me
-
-If you're considering discussing the ethical aspects related to your company's AI or technology pursuits, I'd be more than happy to provide specialized consulting services for a fee. 
-Feel free to drop me an [e-mail](mailto:hello@giadapistilli.com) if you're keen on starting a discussion.
