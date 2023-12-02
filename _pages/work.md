@@ -19,6 +19,7 @@ I am currently working on interdisciplinary research in ethics:
 	- [Machine Learning in development: Let's talk about bias!](https://huggingface.co/blog/ethics-soc-2)
 	- [Ethics & Society Newsletter - Ethical Openness](https://huggingface.co/blog/ethics-soc-3)
 	- [Ethics & Society Newsletter #4: Bias in Text-to-Image Models](https://huggingface.co/blog/ethics-soc-4)
+	- [Ethics & Society Newsletter #5: Hugging Face Goes To Washington and Other Summer 2023 Musings](https://huggingface.co/blog/ethics-soc-5)
 	- [Ethics & Society Projects](https://huggingface.co/spaces/society-ethics/about)
 - Open Science Projects and Research ([BigScience 🌸](https://bigscience.huggingface.co))
 	- [Social Context in LLM Research: the BigScience Approach](https://montrealethics.ai/category/columns/social-context-in-llm-research/) for [Montreal AI Ethics](https://montrealethics.ai/)
