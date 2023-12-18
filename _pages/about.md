@@ -24,7 +24,7 @@ Additionally, my academic and professional experiences include policy and intern
 
 ## projects
 
-* Research Affiliate at [Machine Intelligence and Normative Theory](https://mintresearch.org/) lab.
+* Research Affiliate at [Machine Intelligence and Normative Theory](https://mintresearch.org/people-mint/giada-pistilli) lab.
 
 * Co-chair of the Ethical and Legal Scholarship working group of the [BigScience](https://bigscience.huggingface.co) open science project, that developed and deployed the Multilingual Large Language Model [BLOOM](https://huggingface.co/bigscience/bloom).
 
