@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Principal Ethicist at <a href='https://huggingface.co'>Hugging Face</a> | Ph.D. Candidate in Philosophy at <a href='https://snd.sorbonne-universite.fr/giada-pistilli/'>Sorbonne Université</a>
+subtitle: Principal Ethicist at <a href='https://huggingface.co'>Hugging Face</a> | Philosophy Ph.D. at <a href='https://theses.fr/s382743'>Sorbonne Université</a>
 
 profile:
   align: right
@@ -14,13 +14,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a researcher in philosophy, specializing in ethics applied to Conversational Artificial Intelligence. My research mainly focuses on comparative ethical frameworks, value theory, and ethics applied to Machine Learning (Natural Language Processing and Large Language Models). My work in the field has led me to be selected in the 2024 list of "[100 Brilliant Women in AI Ethics](https://womeninaiethics.org/directory/index.php)", promoted by [Women in AI Ethics](https://womeninaiethics.org/).
+I am a philosopher specialized in the ethical dimensions of Artificial Intelligence, with a particular emphasis on conversational AI. My research primarily explores comparative ethical frameworks and moral philosophy, specifically focusing on their application to Machine Learning, namely Natural Language Processing. This spans from conversational agents to Large Language Models, addressing the diverse granularity of these technologies.
+My work in the field has led me to be selected in the 2024 list of "[100 Brilliant Women in AI Ethics](https://womeninaiethics.org/directory/index.php)", promoted by [Women in AI Ethics](https://womeninaiethics.org/).
 
-After obtaining a master's degree in ethics and political philosophy at [Sorbonne Université](https://lettres.sorbonne-universite.fr) in 2019, I pursued my doctoral research in the same faculty, joining the Sorbonne Université - CNRS mixed unit laboratory "[Sciences, Normes, Democratie](https://snd.sorbonne-universite.fr/giada-pistilli/)". 
+After earning a Master's degree in Ethics and Political Philosophy from [Sorbonne Université](https://lettres.sorbonne-universite.fr), I continued my doctoral research in the same faculty. My work, conducted at the mixed unit laboratory "[Sciences, Normes, Democratie](https://snd.sorbonne-universite.fr/giada-pistilli/)", led to the completion of my PhD in Philosophy.
 
-I am currently Principal Ethicist at [Hugging Face](https://huggingface.co), doing philosophical and interdisciplinary research on AI Ethics. Read more about my typical workday in my [Business Insider profile](https://www.businessinsider.com/what-is-ai-ethicist-working-to-make-the-tech-safe-2023-5).
 
-Additionally, my academic and professional experiences include policy and international relations, notably highlighted by a role at the European Parliament in Brussels, where I focused on human rights.
+In my current role as Principal Ethicist at [Hugging Face](https://huggingface.co), I engage in philosophical and interdisciplinary research, while being in charge of the platform's content moderation efforts. Read more about my typical workday in my [Business Insider profile](https://www.businessinsider.com/what-is-ai-ethicist-working-to-make-the-tech-safe-2023-5).
+
+Additionally, my background spans policy and international relations, marked by my work at the [European Parliament](https://www.europarl.europa.eu/portal/en) in Brussels with a focus on human rights.
 
 ## projects
 
