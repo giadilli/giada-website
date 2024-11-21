@@ -8,10 +8,8 @@ nav: true
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
-
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
+  {% bibliography -f papers -q @*[year={{y}}]* --sort_by month[reverse] %}
 {% endfor %}
-
 </div>
