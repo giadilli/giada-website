@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a philosopher specialized in the ethical dimensions of Artificial Intelligence, with a particular emphasis on conversational AI. My research primarily explores comparative ethical frameworks and moral philosophy, specifically focusing on their application to Machine Learning, namely Natural Language Processing. This spans from conversational agents to Large Language Models, addressing the diverse granularity of these technologies.
+I am a philosopher specialized in the ethical dimensions of Artificial Intelligence, with a particular emphasis on conversational agents. My research primarily explores comparative ethical frameworks and moral philosophy, specifically focusing on their application to Machine Learning, namely Natural Language Processing. This spans from conversational agents to Large Language Models, addressing the diverse granularity of these technologies.
 My work in the field has led me to be selected in the 2024 list of "[100 Brilliant Women in AI Ethics](https://womeninaiethics.org/directory/index.php)", promoted by [Women in AI Ethics](https://womeninaiethics.org/).
 
 After earning a Master's degree in Ethics and Political Philosophy from [Sorbonne Université](https://lettres.sorbonne-universite.fr), I continued my doctoral research in the same faculty. My work, conducted at the mixed unit laboratory "[Sciences, Normes, Democratie](https://snd.sorbonne-universite.fr/giada-pistilli/)", led to the completion of my PhD in Philosophy.
