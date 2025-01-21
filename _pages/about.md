@@ -26,7 +26,7 @@ Additionally, my background spans policy and international relations, marked by 
 
 ## projects
 
-* Associate Researcher at [Sciences, Normes, Démocraties](https://snd.sorbonne-universite.fr/giada-pistilli/) at Sorbonne Université and Centre National de la Recherche Scientifique (CNRS) lab. 
+* Associate Researcher at [Sciences, Normes, Démocraties](https://snd.sorbonne-universite.fr/giada-pistilli/) at [Sorbonne Université](https://www.sorbonne-universite.fr/) and [Centre National de la Recherche Scientifique](https://www.cnrs.fr/) (CNRS) lab. 
 
 * Research Affiliate at [Machine Intelligence and Normative Theory](https://mintresearch.org/people-mint/giada-pistilli) lab.
 
