@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Principal Ethicist at <a href='https://huggingface.co'>Hugging Face</a> | Doctor of Philosophy at <a href='https://theses.fr/s382743'>Sorbonne Université</a> & <a href='https://www.cnrs.fr/fr'>CNRS</a>
+subtitle: Principal Ethicist at <a href='https://huggingface.co'>Hugging Face</a> | Philosophy PhD at <a href='https://theses.fr/s382743'>Sorbonne Université</a> & <a href='https://www.cnrs.fr/fr'>CNRS</a>
 
 profile:
   align: right
